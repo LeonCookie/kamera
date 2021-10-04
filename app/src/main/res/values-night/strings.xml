@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">kamera</string>
     <string name="button">Button</string>
     <string name="todo">TODO</string>
 </resources>
